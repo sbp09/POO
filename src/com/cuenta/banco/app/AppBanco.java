@@ -12,7 +12,7 @@ public class AppBanco {
 
 
 
-        miCuenta.consignar(1000000);
+        miCuenta.consignar(10000);
         miCuenta.retirar(65000);
         miCuenta.transferir(1000, vanessaCuenta);
         miCuenta.mostrarSaldo();
